@@ -39,8 +39,8 @@ const Navbar = () => {
     <span>Account</span>
   </button>
   <ul className="dropdown-menu dropdown-menu-start ">
-    <li><button className='text-white rounded ms-1 p-2  dropdown-item' style={{background:'#2a2539' }}>Log in</button></li>
-    <li><button className=' rounded p-2 ms-1 mt-3  dropdown-item' style={{background:'#bdd3cc' }}>Sign up</button></li>
+    <li><button className='text-white rounded ms-1 p-2  dropdown-item' onClick={goToLogin} style={{background:'#2a2539' }}>Log in</button></li>
+    <li><button className=' rounded p-2 ms-1 mt-3  dropdown-item' onClick={goToSignup} style={{background:'#bdd3cc' }}>Sign up</button></li>
   </ul>
       </div>  
     </div>
