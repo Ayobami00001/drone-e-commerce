@@ -1,0 +1,30 @@
+/* .house {
+    background-image: url(https://res.cloudinary.com/dyzdckuxi/image/upload/v1747582910/ChatGPT_Image_May_18_2025_04_39_05_PM_wqsli4.png);
+    background-size: cover;         
+    background-position: center;    
+    background-repeat: no-repeat;   
+    height: 100vh;
+    display: flex;                 
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  
+}
+
+.house::after {
+    content: "";
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.3); 
+    z-index: 1;
+    pointer-events: none;
+}
+
+
+.house > * {
+    position: relative;
+    z-index: 2;
+    color: #fff;
+    font-size: 2rem;
+    text-align: center;
+} */
