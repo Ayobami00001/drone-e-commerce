@@ -47,7 +47,7 @@ const Stage3 = () => {
         <div className="useCase-text">
           <h4>{useCases[0].title}</h4>
           <p>{useCases[0].desc}</p>
-          <button>View Drones</button>
+          <button className='btn btn-outline-warning'>View Drones</button>
         </div>
       </div>
       <div className="useCase-row left-img">
@@ -57,7 +57,7 @@ const Stage3 = () => {
         <div className="useCase-text">
           <h4>{useCases[1].title}</h4>
           <p>{useCases[1].desc}</p>
-          <button>View Drones</button>
+          <button className='btn btn-outline-warning'>View Drones</button>
         </div>
       </div>
        <div className="useCase-row right-img">
@@ -67,7 +67,7 @@ const Stage3 = () => {
         <div className="useCase-text">
           <h4>{useCases[2].title}</h4>
           <p>{useCases[2].desc}</p>
-          <button>View Drones</button>
+          <button className='btn btn-outline-warning'>View Drones</button>
         </div>
       </div>
       <div className="useCase-row left-img">
@@ -77,7 +77,7 @@ const Stage3 = () => {
         <div className="useCase-text">
           <h4>{useCases[3].title}</h4>
           <p>{useCases[3].desc}</p>
-          <button>View Drones</button>
+          <button className='btn btn-outline-warning'>View Drones</button>
         </div>
       </div>
       <div className="useCase-row right-img">
@@ -87,7 +87,7 @@ const Stage3 = () => {
         <div className="useCase-text">
           <h4>{useCases[4].title}</h4>
           <p>{useCases[4].desc}</p>
-          <button>View Drones</button>
+          <button className='btn btn-outline-warning'>View Drones</button>
         </div>
       </div>
       

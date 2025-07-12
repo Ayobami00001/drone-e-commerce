@@ -8,9 +8,9 @@ const Firstpage = () => {
   return (
     <>
         <section ><Navbar/></section>
-        <section><Body1/> </section>
-        <section><BfFooter/></section>
-        <section><Footer1/></section>
+        <section ><Body1/> </section>
+        {/* <section><BfFooter/></section> */}
+        {/* <section><Footer1/></section> */}
         
         
         
